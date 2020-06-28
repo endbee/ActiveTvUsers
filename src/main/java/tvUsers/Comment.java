@@ -1,3 +1,5 @@
+package tvUsers;
+
 import java.util.Objects;
 
 /**
@@ -65,7 +67,7 @@ public class Comment {
 
     @Override
     public String toString() {
-        return "Comment{" +
+        return "tvUsers.Comment{" +
                 "postId=" + postId +
                 ", id=" + id +
                 ", name='" + name + '\'' +
