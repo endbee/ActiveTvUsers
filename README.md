@@ -1,6 +1,6 @@
 # ActiveTvUsers
 
-**italic** The project is still developed! 
+*The project is still developed!* 
 
 ## Project outlook:
 A small java program which interacts with the JSONplacerholderAPI. 
