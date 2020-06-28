@@ -9,7 +9,7 @@ The program fetches and processes data from the JSONplaceholderAPI and puts out 
 
 The data is a set of comments where the comments of active tv users (indicated by the ending .tv of thier e-mail address) that have commented at least 150 characters get filtered out. Then their names are written to the output file. 
 
-As well as that the the components of the project are also unit tested using testng and mockito as the testing framework.
+As well as that the the components of the project are also unit tested using [TestNG](https://testng.org/doc/) and [Mockito](https://site.mockito.org/).  as the testing framework.
 
 ## What I hope to learn:
   * Introduction to the usage of java as a object-oriented language
